@@ -58,17 +58,17 @@ public class LoginFrame extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\Username.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/Username.png"))); // NOI18N
         jLabel1.setText("Username");
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\unlock.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/unlock.png"))); // NOI18N
         jLabel2.setText("Password");
 
         jButton1.setBackground(new java.awt.Color(255, 255, 255));
         jButton1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\signin.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/signin.png"))); // NOI18N
         jButton1.setText("Sign in");
         jButton1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton1.addActionListener(new java.awt.event.ActionListener() {

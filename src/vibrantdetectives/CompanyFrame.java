@@ -141,7 +141,7 @@ public class CompanyFrame extends javax.swing.JFrame {
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "ID", "Name" }));
 
         jButton1.setBackground(new java.awt.Color(255, 255, 255));
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\search.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/search.png"))); // NOI18N
 
         jPanel3.setBackground(new java.awt.Color(255, 255, 255));
         jPanel3.setBorder(javax.swing.BorderFactory.createTitledBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED), "Company Details", javax.swing.border.TitledBorder.RIGHT, javax.swing.border.TitledBorder.TOP, new java.awt.Font("Tahoma", 1, 14), new java.awt.Color(102, 0, 0))); // NOI18N
@@ -240,7 +240,7 @@ public class CompanyFrame extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/logo.png"))); // NOI18N
 
         jButton5.setBackground(new java.awt.Color(255, 255, 255));
-        jButton5.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\icons\\investigation.jpg")); // NOI18N
+        jButton5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/investigation.jpg"))); // NOI18N
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
@@ -300,7 +300,7 @@ public class CompanyFrame extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 1349, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

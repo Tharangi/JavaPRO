@@ -165,7 +165,7 @@
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Dinuka.T\Desktop\Project\Username.png"/>
+                  <Image iconType="3" name="/vibrantdetectives/Username.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Username"/>
               </Properties>
@@ -177,7 +177,7 @@
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="4"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Dinuka.T\Desktop\Project\unlock.png"/>
+                  <Image iconType="3" name="/vibrantdetectives/unlock.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Password"/>
               </Properties>
@@ -193,7 +193,7 @@
                   <Font name="Tahoma" size="14" style="1"/>
                 </Property>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Dinuka.T\Desktop\Project\signin.png"/>
+                  <Image iconType="3" name="/vibrantdetectives/signin.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Sign in"/>
                 <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">

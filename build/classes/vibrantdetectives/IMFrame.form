@@ -168,7 +168,7 @@
               <Font name="Tahoma" size="14" style="1"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Dinuka.T\Desktop\Project\companies.png"/>
+              <Image iconType="3" name="/vibrantdetectives/companies.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Partners"/>
           </Properties>

@@ -59,7 +59,7 @@ public class IMFrame extends javax.swing.JFrame {
 
         jButton2.setBackground(new java.awt.Color(255, 255, 255));
         jButton2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Dinuka.T\\Desktop\\Project\\companies.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vibrantdetectives/companies.png"))); // NOI18N
         jButton2.setText("Partners");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
