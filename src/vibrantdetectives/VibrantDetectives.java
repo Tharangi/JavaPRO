@@ -6,6 +6,8 @@
 
 package vibrantdetectives;
 
+import frames.LoginFrame;
+
 /**
  *
  * @author Dinuka.T
